@@ -13,7 +13,9 @@
   },
   "main": "background.js",
   "dependencies": {
+    "@pano.video/panortc-electron-sdk": "^0.2.2",
     "core-js": "^3.6.5",
+    "native-ext-loader": "^2.3.0",
     "vue": "^2.6.11",
     "vue-router": "^3.2.0",
     "vuex": "^3.4.0"
